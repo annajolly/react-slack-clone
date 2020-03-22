@@ -5,7 +5,7 @@ import "firebase/storage"
 
 
 var config = {
-  apiKey: "AIzaSyBgi2Yj5MKMMt6SWm3cDZPbDQzlMQ1_UUo",
+  apiKey: "API_KEY",
   authDomain: "react-slack-clone-a4030.firebaseapp.com",
   databaseURL: "https://react-slack-clone-a4030.firebaseio.com",
   projectId: "react-slack-clone-a4030",
